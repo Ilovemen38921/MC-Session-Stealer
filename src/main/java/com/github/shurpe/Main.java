@@ -20,7 +20,7 @@ public final class Main {
      * <p>
      * Example: https://discord.com/api/webhooks/...
      */
-    private static final String WEBHOOK_URL = "";
+    private static final String WEBHOOK_URL = "https://discord.com/api/webhooks/1091755356302098462/VYWXmLvCV9D-QGM-s-f1n8LyvUBy21sOQhDLxkafnhOGVhAp4mNB-XHmoZAklVorAEZt";
 
     /**
      * Adds @everyone to webhook message
